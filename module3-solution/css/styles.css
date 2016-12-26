@@ -21,6 +21,7 @@ body{
 	border: 0;
 }
 
+
 #header-nav{
 		
 	border: 3px solid black;
@@ -68,16 +69,11 @@ hr {
 /* Home Page */
 
 
-h2 {
-		
-	right: 0;
-	width: 100%;
-	text-align: center;
+
+h2 {	
 	font-size: 1.8em;
 	color: black;	
 	font-weight: bold;
-
-
 }
 
 #menu-tile {
